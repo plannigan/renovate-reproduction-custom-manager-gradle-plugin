@@ -1,16 +1,14 @@
-# minimal-reproduction-template
-
-First, read the [Renovate minimal reproduction instructions](https://github.com/renovatebot/renovate/blob/main/docs/development/minimal-reproductions.md).
-
-Then replace the current `h1` with the Renovate Issue/Discussion number.
+# renovate-reproduction-custom-manager-gradle-plugin
 
 ## Current behavior
 
-Explain the current behavior here.
+This project has a file used for documentation that includes the version of Kotlin being used. The goal is to have a
+custom manager update this documentation file when the Kotlin Gradle plugin version is updated.
+
 
 ## Expected behavior
 
-Explain the expected behavior here.
+The documentation file is update in the same MR that update the Gradle build file.
 
 ## Link to the Renovate issue or Discussion
 
