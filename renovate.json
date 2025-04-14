@@ -19,7 +19,7 @@
       ],
       "datasourceTemplate": "maven",
       "depTypeTemplate": "plugin",
-      "depNameTemplate": "org.jetbrains.kotlin.jvm.gradle.plugin"
+      "packageNameTemplate": "org.jetbrains.kotlin.jvm:org.jetbrains.kotlin.jvm.gradle.plugin"
     }
   ]
 }
